@@ -47,6 +47,9 @@ This project solves that problem by building an AI-powered chatbot that can:
 The system uses Retrieval-Augmented Generation (RAG) architecture to improve answer accuracy and reduce hallucinations.
 
 ---
+## Live Application
+**Streamlit Deployment:**  
+https://pdf-chatbot-rag3.streamlit.app/
 
 # 📁 Project Structure
 
